@@ -5,6 +5,8 @@ A luxury single-page website (static HTML, no build step required).
 ## Files
 - `index.html` — the entire website (all CSS + JS inline)
 - `peyton.jpg` — Peyton's headshot (referenced by index.html — keep it in the same folder)
+- `listing1.jpg` … `listing4.jpg` — real property photos for the listing cards
+  (to change one, just replace the file with a new photo of the same name)
 - `vercel.json` — Vercel config (clean URLs + security headers)
 
 ## Already wired
